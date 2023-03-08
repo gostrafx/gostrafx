@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Gostrafx! <img src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Gostrafx!</h2>
 
 ```python
   print('Hey I'm a web developer 😍.')
