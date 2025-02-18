@@ -1,18 +1,12 @@
 <div align="center">
-
-<img src="https://i.imgur.com/gwcls1f.gif" width="900" height="auto" />
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there%20👋,%20I'm%20Gostrafx!&width=900&height=400" align="center" style="width: 100%" />
-</div>  
+<img src="https://i.imgur.com/7rxb8M8.gif" width="900" height="300" />
+</div>
 <br clear="both" />
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=%F0%9F%92%96+A+Passionate+Coder%2C+Developer" />
 <img align="right" height="150" src="https://i.imgur.com/2W2eCyN.gif"  />
-
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com/?lines=print('Cool+Coding😍.')&repeat=fals&size=30" align="center" height="" width="" />
-</div>  
+</div>
 <br clear="both" />
-<br clear="both" />
-<br clear="both" />
-<img src="https://i.imgur.com/dEORKnA.gif" width="900" height="auto" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Skills" alt="Typing SVG" width="435" />
 <table><tr><td valign="top" width="33%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=Frontend" alt="Typing SVG" width="435" />
@@ -36,11 +30,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1500&color=FFFFFF&width=435&lines=Backend" alt="Typing SVG" width="435" /> 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1500&color=FFFFFF&width=435&lines=Backend" alt="Typing SVG" width="435" />
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
@@ -61,7 +52,6 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=Tools+%26+Platforms" alt="Typing SVG" />
 <div align="center">  
@@ -71,40 +61,33 @@
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
 </div>
-
 </td></tr>
-</table>  
-
-<br clear="both" />
-<img src="https://i.imgur.com/dEORKnA.gif" width="900" height="auto" />
+</table>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Connect with me" alt="Typing SVG" width="435" /> 
 <br clear="both" />
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/Gostrafx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/Gostrafx" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-
+</a>
 <br clear="both" />
-<img src="https://i.imgur.com/dEORKnA.gif" width="900" height="auto" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Github Stats" alt="Typing SVG" width="435" /> 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Github Stats" alt="Typing SVG" width="435" />
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gostrafx&show_icons=true&count_private=true&hide_border=true" align="left" />  
-</div> 
-
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostrafx&hide_border=true&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=gostrafx&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" />  
 </div>
-
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostrafx&hide_border=true&layout=compact&theme=react" align="right" />
+</div>
+ <br clear="both" />
 <br clear="both" />
-<br clear="both" />
-<img src="https://i.imgur.com/dEORKnA.gif" width="900" height="auto" />
+<div align="center">
+<img align="center" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=gostrafx&theme=react&mode=weekly&hide_border=true&locale=en" />
+</div>
+ <br clear="both" />
 <div align="center">
    <img src="https://u8views.com/api/v1/github/profiles/13601626/views/day-week-month-total-count.svg" />
    <br clear="both" />
-    <br clear="both" />
             <a href="https://paypal.me/?" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
@@ -130,9 +113,7 @@
                 />
             </a>
 </div>
-
 <br clear="both" />
-
-<img src="https://raw.githubusercontent.com/gostrafx/gostrafx/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ----
