@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2> Hi, I'm Gostrafx!</h2>
+<h2> Hi there 👋, I'm Gostrafx!</h2>
 
 ```python
   print('Hey I'm a web developer 😍.')
