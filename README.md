@@ -1,8 +1,8 @@
-<img align="center" src="https://i.imgur.com/7rxb8M8.gif" width="900" height="300" alt="logo" />
+<img align="center" src="bg.gif" width="900" height="300" alt="logo" />
 <br clear="both" />
 <br clear="both" />
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=%F0%9F%92%96+A+Passionate+Coder%2C+Developer" />
-<img align="right" height="150" src="https://i.imgur.com/2W2eCyN.gif"  />
+<img align="right" height="150" src="meme.gif"  />
 <br clear="both" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Skills" alt="Typing SVG" width="435" />
 <table><tr><td valign="top" width="33%">
