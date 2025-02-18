@@ -1,13 +1,16 @@
-<img align="center" src="bg.gif" width="900" height="300" alt="logo" />
+<img align="center" src="./bg.gif" width="900" height="300" alt="logo" />
 <br clear="both" />
 <br clear="both" />
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=%F0%9F%92%96+A+Passionate+Coder%2C+Developer" />
-<img align="right" height="150" src="meme.gif"  />
+<img align="right" height="150" src="./meme.gif"  />
+<div align="left">
+<b>It is never too late to learn, for knowledge is a limitless wealth that no one can take from you, and while youth is a gift of nature, maturity is a work of art shaped by learning.</b>
+</div>
 <br clear="both" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Skills" alt="Typing SVG" width="435" />
+<img src="./Skills.svg" alt="Typing SVG" width="435" />
 <table><tr><td valign="top" width="33%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=Frontend" alt="Typing SVG" width="435" />
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
@@ -29,7 +32,7 @@
 </div>
 </td><td valign="top" width="33%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1500&color=FFFFFF&width=435&lines=Backend" alt="Typing SVG" width="435" />
-<div align="center">  
+<div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
@@ -47,20 +50,23 @@
 <a href="https://www.capacitorjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="25" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 </div>
 </td><td valign="top" width="33%">
 <img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&pause=1000&color=FFFFFF&width=435&height=60&lines=Tools+%26+Platforms" alt="Typing SVG" />
-<div align="center">  
+<div align="left">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>
+<img src="https://skillicons.dev/icons?i=rider,phpstorm,webstorm,idea,windows,robloxstudio,postman,obsidian&perline=7" />
+<img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat-square&amp;logo=affinity-photo&amp;logoColor=white" alt="Affinity Photo">
+<img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat-square&amp;logo=affinity-designer&amp;logoColor=white" alt="Affinity Designer">
 </div>
 </td></tr>
 </table>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Connect with me" alt="Typing SVG" width="435" /> 
+<img src="./Connect.svg" alt="Typing SVG" width="435" /> 
 <br clear="both" />
 <a href="https://github.com/Gostrafx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,7 +75,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <br clear="both" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Github Stats" alt="Typing SVG" width="435" />
+<img src="./Github_Stats.svg" alt="Typing SVG" width="435" />
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=gostrafx&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" />  
 </div>
